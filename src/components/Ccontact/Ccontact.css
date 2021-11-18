@@ -1,0 +1,11 @@
+.asd {
+  border: solid;
+  background-color: lightskyblue;
+  text-align: center;
+  color: snow;
+}
+.side {
+  border: solid;
+  border-color: black;
+  background-color: red;
+}

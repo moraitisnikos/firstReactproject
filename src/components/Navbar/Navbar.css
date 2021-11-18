@@ -1,0 +1,17 @@
+.NavbarItems {
+  background-color: #66d766;
+  /* height: 80px;
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  grid-gap: 10px;
+  text-align: center;
+  list-style: none; */
+}
+
+.nav-items {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  grid-gap: 10px;
+  text-align: center;
+  list-style: none;
+}
